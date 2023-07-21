@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lalpix JT
 - 👀 I’m interested in 3D printing, SW & HW dev
-- 🌱 I’m currently learning PCB development, Flutter coding
+- 🌱 I’m currently learning more about embeded systems
+- 🧰 Working partly as a flutter dev
 - 📫 How to reach me @HEX (https://www.instagram.com/hex_lighting/?hl=en)
 
 <!---
