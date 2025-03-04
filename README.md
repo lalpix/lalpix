@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalpix JT
-- 🌱 I’m currently learning more about HW of embeded systems
 - 🧰 Working partly as a flutter dev
+- 🏢 HW and FW dev for CTU FBMI
 - 🎓 Studying at CTU Prague Faculty of electrical engineering
 
 <!---
